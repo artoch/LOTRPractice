@@ -9,7 +9,7 @@ import SwiftUI
 
 @main
 struct LOTRconverterApp: App {
-    var body: some Scene {//aaaa
+    var body: some Scene {
         WindowGroup {
             ContentView()
         }
